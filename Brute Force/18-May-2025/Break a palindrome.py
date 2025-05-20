@@ -1,5 +1,6 @@
 '''
 Break a palindrome
+medium
 string, slicing, greedy
 '''
 
