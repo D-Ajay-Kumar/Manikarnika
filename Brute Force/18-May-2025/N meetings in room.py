@@ -1,5 +1,6 @@
 '''
 N meetings in a room
+medium
 greedy, sorting, lambda, maximize
 '''
 

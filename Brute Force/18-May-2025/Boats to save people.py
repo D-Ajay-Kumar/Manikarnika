@@ -1,5 +1,6 @@
 '''
 Boats to save people
+medium
 greedy, two_pointer, minimize
 '''
 

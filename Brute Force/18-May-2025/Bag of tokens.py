@@ -1,5 +1,6 @@
 '''
 Bag of tokens
+medium
 greedy, two_pointers, maximize
 '''
 

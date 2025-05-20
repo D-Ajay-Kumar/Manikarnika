@@ -1,5 +1,6 @@
 '''
 Minimum number of platforms required for a railway
+medium
 greedy, min_heap, sorting, lambda, minimize
 '''
 
