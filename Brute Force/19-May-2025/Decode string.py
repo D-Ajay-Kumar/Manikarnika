@@ -1,5 +1,5 @@
 '''
-Decpde string
+Decode string
 medium
 stack, string 
 '''
